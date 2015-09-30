@@ -17,6 +17,7 @@ namespace Classi
             Console.WriteLine("Ciao mondo!!!");
             Console.ReadKey();
             fdsebuifdasikdafsuhodfsofsddfs
+                dsghuihd0bikas
 
         }
     }

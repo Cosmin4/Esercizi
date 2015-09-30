@@ -10,15 +10,15 @@ namespace Classi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ciao mondo!!!");
-            Console.ReadKey();
-            int x = 3;
-            int y = 6;
-            Console.WriteLine("Ciao mondo!!!");
-            Console.ReadKey();
-            fdsebuifdasikdafsuhodfsofsddfs
-                dsghuihd0bikas
+            var listaPersone = new List<Persona>();
+            new Persona("Pippo", 800, new DateTime(2000, 2, 23));
+            new Persona("Astolfo", 1500, new DateTime(1996, 12, 18));
 
+            foreach (var Persona in listaPersone)
+            {
+                Console.WriteLine(Persona.ToString() + "\n");
+                Console.ReadKey();
+            }
         }
     }
 }

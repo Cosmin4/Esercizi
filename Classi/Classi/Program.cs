@@ -16,6 +16,7 @@ namespace Classi
             int y = 6;
             Console.WriteLine("Ciao mondo!!!");
             Console.ReadKey();
+            fdsebuifdasikdafsuhodfsofsddfs
 
         }
     }

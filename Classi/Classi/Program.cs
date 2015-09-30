@@ -14,6 +14,8 @@ namespace Classi
             Console.ReadKey();
             int x = 3;
             int y = 6;
+            Console.WriteLine("Ciao mondo!!!");
+            Console.ReadKey();
 
         }
     }

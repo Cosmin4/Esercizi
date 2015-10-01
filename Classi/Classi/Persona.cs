@@ -56,6 +56,7 @@ namespace Classi
         {
             return "Nome: " + this.Nome + "\nSalario: " + this.Salario + "\nData di nascita: " + this.DataDiNascita.ToString("dd-mm-yyyy");
         }
+        unchecked quasiliasi cosa.
 
 
 
